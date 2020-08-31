@@ -17,5 +17,7 @@ View the library of solutions from this repository at http://haltersweb.github.i
 ### Editorial Content
 > https://a11y-guidelines.orange.com/others_EN/index.html
 
+----
 
+> http://echesters.co.uk/2017/03/12/accessibility-code-snippets.html
 
