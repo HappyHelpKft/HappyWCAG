@@ -2,7 +2,10 @@
 
 ##Library of Solutions
 
-View the library of solutions from this repository at http://haltersweb.github.io/Accessibility/
+----
+### Accessibility in general (bare-bone)
+> http://echesters.co.uk/2017/03/12/accessibility-code-snippets.html
+----
 
 # Other sources - orange.com
 
@@ -17,7 +20,7 @@ View the library of solutions from this repository at http://haltersweb.github.i
 ### Editorial Content
 > https://a11y-guidelines.orange.com/others_EN/index.html
 
-----
-
-> http://echesters.co.uk/2017/03/12/accessibility-code-snippets.html
+## Orange Boosted with Bootstrap
+##### Boosted is Orange’s HTML, CSS and JS library — based on Bootstrap 4.5.2, the world’s most popular front-end open source toolkit.
+> https://boosted.orange.com/
 
