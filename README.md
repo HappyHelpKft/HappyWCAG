@@ -1,6 +1,6 @@
 # Accessibility
 
-##Library of Solutions
+## Library of Solutions
 
 ----
 ### Accessibility in general (bare-bone)
@@ -9,7 +9,7 @@
 
 # Other sources - orange.com
 
-## https://a11y-guidelines.orange.com/home_EN/index.html
+> https://a11y-guidelines.orange.com/home_EN/index.html
 
 ### Web
 > https://a11y-guidelines.orange.com/web_EN/index.html
