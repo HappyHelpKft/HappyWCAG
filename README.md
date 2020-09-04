@@ -1,6 +1,4 @@
-# Accessibility
-
-## Library of Solutions
+# Accessibility Library of Solutions
 
 ----
 ### Accessibility in general (bare-bone)
