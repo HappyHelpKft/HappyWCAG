@@ -3,6 +3,7 @@
 ----
 ### Accessibility in general (bare-bone)
 > http://echesters.co.uk/2017/03/12/accessibility-code-snippets.html
+
 ----
 
 # Other sources - orange.com
@@ -36,10 +37,17 @@
 ### Linux
 > https://help.gnome.org/users/orca/stable/
 
-----
+---
+
+## How to Meet WCAG (Quick Reference)
+> https://www.w3.org/WAI/WCAG21/quickref/
+
+---
 
 ## Web Content Accessibility Guidelines
 > http://www.w3.org/TR/WCAG10/full-checklist.html
+
+---
 
 ## Accessibility Tools
 > http://wave.webaim.org/
@@ -54,6 +62,8 @@
 
 > http://a11yproject.com/
 
+---
+
 ## Accessibility viusal contents/assets
 > http://bitsofco.de/2015/the- accessibility- cheatsheet/
 
@@ -61,8 +71,24 @@
 
 > http://a11ywins.tumblr.com/
 
+---
+
 ## ARIA
 > http://dylanb.github.io/periodic-aria-roles.html
 
 > http://dylanb.github.io/periodic-aria-attributes.html
 
+---
+
+## Google Chrome Extensions
+##### Web Disability Simulator
+> https://chrome.google.com/webstore/detail/web-disability-simulator/olioanlbgbpmdlgjnnampnnlohigkjla
+
+##### Wave Evaluation Tool ("semi-automated")
+> https://chrome.google.com/webstore/detail/wave-evaluation-tool/jbbplnpkjmmeebjpijfedlgcdilocofh
+
+##### A11Y - Color blindness empathy test
+> https://chrome.google.com/webstore/detail/a11y-color-blindness-empa/idphhflanmeibmjgaciaadkmjebljhcc
+
+##### axe - Web Accessibility Testing ("fully automated")
+> https://chrome.google.com/webstore/detail/axe-web-accessibility-tes/lhdoppojpmngadmnindnejefpokejbdd
