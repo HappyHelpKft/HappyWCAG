@@ -92,5 +92,3 @@
 
 ##### axe - Web Accessibility Testing ("fully automated")
 > https://chrome.google.com/webstore/detail/axe-web-accessibility-tes/lhdoppojpmngadmnindnejefpokejbdd
-
----
